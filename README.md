@@ -91,10 +91,6 @@ Evidence & iteration
 
 I care less about adding AI to existing workflows than about asking what the workflow, product, or system should become once intelligence is part of the architecture.
 
-## Building
-
-I also build under [**VivariumForge**](https://github.com/VivariumForge), an environment for turning AI-native ideas into working systems.
-
 ---
 
 *Current thesis: persistent AI requires more than memory. It needs a model of self that can remain coherent while still being able to change.*
